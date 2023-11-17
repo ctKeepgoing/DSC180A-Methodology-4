@@ -1,4 +1,4 @@
 # DSC180A-Methodology-4
 
 Colin Tran
-Zhuji Zhang
+ctt005@ucsd.edu
